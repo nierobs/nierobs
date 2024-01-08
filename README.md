@@ -4,6 +4,8 @@ I am a web developer with solid knowledge of HTML, CSS, JavaScript and Docker co
 
 On a more personal note, I firmly believe that individual freedom is the most important value and consider myself a libertarian. This means, for example, the recognition of innate human rights to bodily autonomy, private property and peaceful association.  
 
-I am also agnostic for entirely moral reasons.  
+I am also an agnostic and a humanist for entirely moral reasons.  
 
-My webpage &ndash; [coreteam.com.br](https://coreteam.com.br/)
+Living in Petrópolis, Brazil.
+
+My webpage &ndash; [https://coreteam.com.br](https://coreteam.com.br/)
