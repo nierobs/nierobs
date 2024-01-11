@@ -6,6 +6,4 @@ On a more personal note, I firmly believe that individual freedom is the most im
 
 I live among the green mountains and serene nights in the city of Petrópolis, Rio de Janeiro, Brazil.
 
-## Personal web page
-
-[https://coreteam.com.br](https://coreteam.com.br/)
+**Personal web page:** [https://coreteam.com.br](https://coreteam.com.br/)
