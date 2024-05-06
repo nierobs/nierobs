@@ -4,4 +4,4 @@ An enthusiast of cryptography, decentralized systems and free software, I firmly
 
 More than 5 years of experience in Software Development, solid knowledge of Docker, HTML, CSS, JavaScript and SQL, strong analytical skills and conceptual thinking. Technologist Diploma in Internet Systems from Universidade Nove de Julho and studying Computer Engineering from Universidade Católica de Petrópolis.  
 
-My name is Robson Niemeyer and I develop efficient, elegant, stable web applications!  
+My name is Robson Niemeyer and I develop elegant, stable web applications!  
