@@ -1,7 +1,11 @@
 # Introduction
 
-An enthusiast of cryptography, decentralized systems and free software, I firmly believe that **individual freedom** is the most important achievement. This means recognizing the innate human rights to bodily autonomy, private property, peaceful association, and proportionate retaliation against all those who violate these rights (i.e. justice).  
+*I develop reliable websites for elegant people.*  
 
-More than 5 years of experience in **fullstack web developmen**, solid knowledge of web design, HTML, CSS, Sass, JavaScript, Docker and SQL database, strong analytical skills and conceptual thinking. Technologist Diploma in Internet Systems from Universidade Nove de Julho and studying Computer Engineering at Universidade Católica de Petrópolis.  
+High analytical skills and conceptual thinking combined with solid knowledge of usability, web design, REST API and database modeling.  
 
-My name is Robson Niemeyer and I develop **custom, elegant, reliable** websites!
+More than 6 years of experience in fullstack web development. Technologist Diploma in Internet Systems from Universidade Nove de Julho and studying Computer Engineering at Universidade Católica de Petrópolis.  
+
+On a more personal note, I firmly believe that individual freedom is the greatest achievement.  
+
+I am Robson Niemeyer.
