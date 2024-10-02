@@ -1,3 +1,3 @@
 # Summary
 
-Over 7 years of experience in web development. Technologist Diploma in Internet Systems from Universidade Nove de Julho and studying Computer Engineering at Universidade Católica de Petrópolis.
+Experience in web development. Analytical skills and conceptual thinking. On a more personal note, I firmly believe that individual freedom is the greatest achievement.
